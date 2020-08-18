@@ -1,5 +1,8 @@
 # Subscriber ETL Pipeline
 
+## Project Architecture
+![Image](project_architecture.JPG)
+
 ## Installation
 - Kafka & Zookeeper
 - Apache Spark
